@@ -1,5 +1,5 @@
 ## Day 14 :white_check_mark:
-### Swift review, day one
+### Swift review, day two
 #### Topics
 + Functions
 + Optionals
