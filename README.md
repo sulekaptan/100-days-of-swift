@@ -13,8 +13,13 @@ Welcome to my 100 Days of Swift Challenge repository! As part of Paul Hudson's [
 | Day 7 (Closures part two)                     | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day7-README.md">File</a>    |
 | Day 8 (Structs, properties, and methods)      | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day8-README.md">File</a>    |
 | Day 9 (Access control, static properties vs.) | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day9-README.md">File</a>    |
-| Day 10 (Classes and inheritance)              | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day10-README.md">File</a>    |
-| Day 11 (Protocols, extensions)                | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day11-README.md">File</a>    |
+| Day 10 (Classes and inheritance)              | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day10-README.md">File</a>   |
+| Day 11 (Protocols, extensions)                | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day11-README.md">File</a>   |
+| Day 12 (Optionals, unwrapping, typecasting)   | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day12-README.md">File</a>   |
+| Day 13 (Swift review, day one)                | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day13-README.md">File</a>   |
+| Day 14 (Swift review, day two)                | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day14-README.md">File</a>   |
+| Day 15 (Swift review, day three)              | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day15-README.md">File</a>   |
+
 
 ## Structure of the Repository
 
