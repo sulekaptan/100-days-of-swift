@@ -19,7 +19,9 @@ Welcome to my 100 Days of Swift Challenge repository! As part of Paul Hudson's [
 | Day 13 (Swift review, day one)                | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day13-README.md">File</a>   |
 | Day 14 (Swift review, day two)                | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day14-README.md">File</a>   |
 | Day 15 (Swift review, day three)              | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day15-README.md">File</a>   |
-
+| Day 16 (Project 1 - Storm Viewer)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project1">File</a>   |
+| Day 17 (Project 1 - Storm Viewer)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project1">File</a>   |
+| Day 18 (Project 1 - Storm Viewer)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project1">File</a>   |
 
 ## Structure of the Repository
 
