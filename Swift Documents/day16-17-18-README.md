@@ -1,5 +1,5 @@
 ## Day 16 - 17 - 18 :white_check_mark:
-#### Project 1
+#### Project 1 - Storm Viewer
 - Project Setup for UIKit
 - FileManager and Content Connections
 - User Interface Design with Storyboard
