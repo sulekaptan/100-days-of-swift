@@ -22,6 +22,11 @@ Welcome to my 100 Days of Swift Challenge repository! As part of Paul Hudson's [
 | Day 16 (Project 1 - Storm Viewer)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project1">File</a>   |
 | Day 17 (Project 1 - Storm Viewer)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project1">File</a>   |
 | Day 18 (Project 1 - Storm Viewer)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project1">File</a>   |
+| Day 19 (Project 2 - Guess the Flag)           | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project2">File</a>   |
+| Day 20 (Project 2 - Guess the Flag)           | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project2">File</a>   |
+| Day 21 (Project 2 - Guess the Flag)           | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project2">File</a>   |
+| Day 22 (Project 3)                            | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day22-README.md">File</a>   |
+| Day 23 (Milestone)                            | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day23-README.md">File</a>   |
 
 ## Structure of the Repository
 
