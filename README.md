@@ -27,6 +27,9 @@ Welcome to my 100 Days of Swift Challenge repository! As part of Paul Hudson's [
 | Day 21 (Project 2 - Guess the Flag)           | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project2">File</a>   |
 | Day 22 (Project 3)                            | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day22-README.md">File</a>   |
 | Day 23 (Milestone)                            | <a href="https://github.com/sulekaptan/100-days-of-swift/blob/main/Swift%20Documents/day23-README.md">File</a>   |
+| Day 24 (Project 4 - Easy Browser)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project4">File</a>   |
+| Day 25 (Project 4 - Easy Browser)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project4">File</a>   |
+| Day 26 (Project 4 - Easy Browser)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project4">File</a>   |
 
 ## Structure of the Repository
 
