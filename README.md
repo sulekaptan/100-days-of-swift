@@ -30,6 +30,10 @@ Welcome to my 100 Days of Swift Challenge repository! As part of Paul Hudson's [
 | Day 24 (Project 4 - Easy Browser)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project4">File</a>   |
 | Day 25 (Project 4 - Easy Browser)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project4">File</a>   |
 | Day 26 (Project 4 - Easy Browser)             | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project4">File</a>   |
+| Day 27 (Project 5 - Word Scramble)            | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project5">File</a>   |
+| Day 28 (Project 5 - Word Scramble)            | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project5">File</a>   |
+| Day 29 (Project 5 - Word Scramble)            | <a href="https://github.com/sulekaptan/100-days-of-swift/tree/main/Projects/UIKit/Project5">File</a>   |
+
 
 ## Structure of the Repository
 
